@@ -3,6 +3,8 @@
 <h2>The marketplace built
 for beauty influencers</h2>
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1ZHk36UoLupX0T2MUsbiUYxjjEpmZVbSE/view?usp=drive_link)https://drive.google.com/file/d/1ZHk36UoLupX0T2MUsbiUYxjjEpmZVbSE/view?usp=drive_link)
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1uqz_vhnJNpz50E8DmgB0IWOK1LM77KJm/view?usp=drive_link)https://drive.google.com/file/d/1uqz_vhnJNpz50E8DmgB0IWOK1LM77KJm/view?usp=drive_link)
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/19XiQSheLYXx7IRdlBH4BY8Z-EOqJeF6N/view?usp=drive_link)https://drive.google.com/file/d/19XiQSheLYXx7IRdlBH4BY8Z-EOqJeF6N/view?usp=drive_link)
+![alt text](https://github.com/AdKamat2411/pentra-appp/blob/main/screenshots/Screenshot%202024-01-31%20at%207.53.51%E2%80%AFPM.png)
+
+![alt text](https://github.com/AdKamat2411/pentra-appp/blob/main/screenshots/Screenshot%202024-01-31%20at%208.02.41%E2%80%AFPM.png)
+
+![alt text](https://github.com/AdKamat2411/pentra-appp/blob/main/screenshots/Screenshot%202024-01-31%20at%208.00.50%E2%80%AFPM.png)
