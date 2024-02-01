@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>com.Pentra.TinderClone</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>pentra</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OldStandardTT-Bold.ttf</string>
+		<string>OldStandardTT-Italic.ttf</string>
+		<string>OldStandardTT-Regular.ttf</string>
+		<string>Cabin-Regular.ttf</string>
+		<string>Cabin-Bold.ttf</string>
+		<string>Cabin-Italic.ttf</string>
+		<string>Cabin-BoldItalic.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>
